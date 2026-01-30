@@ -12,7 +12,7 @@ https://www.stegbar.com.au/
 
 
 ## My Role
-Full Stack Developer
+Full Stack Developer 
 
 ## Key Responsibilities
 - Analyzed and understood the legacy Optimizely/Episerver architecture
