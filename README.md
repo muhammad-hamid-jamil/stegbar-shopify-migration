@@ -6,6 +6,10 @@ The original platform was built on a legacy CMS (Optimizely / Episerver) with a 
 
 Due to frequent server slowdowns and maintenance challenges, the client decided to migrate the entire platform to Shopify while preserving the existing design and user experience.
 
+
+## 🌐 Live Demo
+https://www.stegbar.com.au/
+
 ## My Role
 Full Stack Developer
 
@@ -31,5 +35,5 @@ Full Stack Developer
 - Delivered a scalable and maintainable solution for future growth
 
 ## Note
-This repository is a **portfolio case study only**.  
+This repository is a **PortfolioCase Study only**.  
 No source code or client-specific assets are included due to confidentiality.
